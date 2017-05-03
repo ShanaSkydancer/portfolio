@@ -1,4 +1,4 @@
-# Portfolio of work
+# Portfolio of Work
 
 ## Frontend Projects:
 * [Basic Web Page](https://shanaskydancer.github.io/)
@@ -10,11 +10,6 @@
 * [My Screen/Everyday Decisions](https://shanaskydancer.github.io/My_Screen/)
 
 ## Backend projects
-* Greet in Node // Not completed
-* TDD using Modules (link to GitHub) // Not completed
-* Greet using Routes // Not completed
-* Registration Plates // Not completed
-* Waiter Availability // Not completed
-* Shoe Catalogue API // Not completed
+* [TDD using Modules](https://github.com/ShanaSkydancer/bootcamp-terminal-tests)
 
 ### Done by Charne Banger
