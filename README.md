@@ -23,7 +23,7 @@
 
 ## Group work:
 * [June Hackathon](https://github.com/ShanaSkydancer/June_Hackathon)
-* [November Hackathon]
+* [November Hackathon](https://github.com/Sibabale/Novemeber-Hackaton)
 
 ## Other:
 * [Demo Vue JS Project for Internship](https://github.com/ShanaSkydancer/Demo-VueJS-Project)
