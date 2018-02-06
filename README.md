@@ -28,6 +28,7 @@
 ## Other:
 * [Demo Vue JS Project for Internship](https://github.com/ShanaSkydancer/Demo-VueJS-Project)
 * [Gitflow Practise](https://github.com/ShanaSkydancer/GitFlowPractise)
+* [Terminal_Talk](https://github.com/ShanaSkydancer/Terminal_Talk)
 
 ## Katas:
 * [List Mini Katas](https://github.com/ShanaSkydancer/List_Mini_Katas)
